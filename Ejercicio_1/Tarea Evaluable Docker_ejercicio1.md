@@ -179,3 +179,19 @@
 <img src="./Tarea%20Evaluable%20Docker_ejercicio1.assets/7.4%20%20base%20de%20datos%20funcionando.jpg" style="zoom:50%;" />
 
 <img src="./Tarea%20Evaluable%20Docker_ejercicio1.assets/7.5%20base%20de%20datos%20funcionando.jpg" style="zoom:50%;" />
+
+##### 1.8 Instalamos extensión `Resource usage`
+
+- Del mismo modo que instalamos la extensión `PortNavigator`, accedemos a la pestaña de búsqueda en la aplicación, realizamos su búsqueda y la instalamos:
+
+<img src="./Tarea%20Evaluable%20Docker_ejercicio1.assets/1.7%20extensi%C3%B3n%20Resource%20usage.jpg" style="zoom:50%;" />
+
+
+
+<img src="./Tarea%20Evaluable%20Docker_ejercicio1.assets/1.8%20extensi%C3%B3n%20Resource%20usage.jpg" style="zoom:50%;" />
+
+- Una vez instalada, arrancamos nuestros contenedores y comprobamos nuestra salida cuando estos están activos. La extensión permite dos vistas: `Table view`, y `Chart view`.
+
+<img src="./Tarea%20Evaluable%20Docker_ejercicio1.assets/1.8%20Extensi%C3%B3n%20resource%20usage_vista1.jpg" style="zoom: 50%;" />
+
+<img src="./Tarea%20Evaluable%20Docker_ejercicio1.assets/1.8%20Extensi%C3%B3n%20resource%20usage_vista2.jpg" style="zoom: 50%;" />
